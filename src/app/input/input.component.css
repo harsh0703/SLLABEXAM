@@ -1,0 +1,15 @@
+body {
+  padding: 20px;
+}
+label {
+  color: black;
+  font-weight: 150;
+  font-size: large;
+}
+label.date {
+  padding-right: 20px;
+}
+button {
+  color: white;
+  background-color: green;
+}
